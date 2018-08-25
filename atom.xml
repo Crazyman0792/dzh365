@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DvHwH</title>
   <id>https://dzh365.github.io</id>
-  <updated>2018-08-25T21:16:21+08:00</updated>
+  <updated>2018-08-25T22:01:59+08:00</updated>
   <subtitle>记录一下吧</subtitle>
   <link href="https://dzh365.github.io"></link>
   <author>
     <name>DvHwH</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:dzh365.github.io,2016-07-11:/ink-blog-tool.html</id>
-    <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
-    <link href="https://dzh365.github.io/ink-blog-tool.html"></link>
+    <title>最终我还是又开始了写博客</title>
+    <updated>2018-08-25T21:27:30+08:00</updated>
+    <id>tag:dzh365.github.io,2018-08-25:/2018-8-25-1.html</id>
+    <content type="html"></content>
+    <link href="https://dzh365.github.io/2018-8-25-1.html"></link>
     <author>
       <name>duanzh</name>
     </author>
