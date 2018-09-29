@@ -1,1 +1,0 @@
-This is my personal website by Ink and Github Pages
