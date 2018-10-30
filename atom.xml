@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DvHwH</title>
   <id>https://dzh365.top</id>
-  <updated>2018-09-29T23:10:28+08:00</updated>
+  <updated>2018-10-30T20:39:54+08:00</updated>
   <subtitle>记录一下吧</subtitle>
   <link href="https://dzh365.top"></link>
   <author>
     <name>DvHwH</name>
   </author>
+  <entry>
+    <title>每周分享No.6</title>
+    <updated>2018-10-30T21:33:00+08:00</updated>
+    <id>tag:dzh365.top,2018-10-30:/2018-10-30.html</id>
+    <content type="html"></content>
+    <link href="https://dzh365.top/2018-10-30.html"></link>
+    <author>
+      <name>DvHwH</name>
+    </author>
+  </entry>
+  <entry>
+    <title>最近状态又不对劲了</title>
+    <updated>2018-10-18T20:33:00+08:00</updated>
+    <id>tag:dzh365.top,2018-10-18:/2018-10-18.html</id>
+    <content type="html"></content>
+    <link href="https://dzh365.top/2018-10-18.html"></link>
+    <author>
+      <name>DvHwH</name>
+    </author>
+  </entry>
   <entry>
     <title>每周分享No.5</title>
     <updated>2018-09-29T21:33:00+08:00</updated>
