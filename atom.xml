@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DvHwH</title>
   <id>https://dzh365.top</id>
-  <updated>2018-12-16T22:53:25+08:00</updated>
+  <updated>2018-12-30T19:25:10+08:00</updated>
   <subtitle>记录一下吧</subtitle>
   <link href="https://dzh365.top"></link>
   <author>
     <name>DvHwH</name>
   </author>
+  <entry>
+    <title>再见 2018</title>
+    <updated>2018-12-28T19:13:00+08:00</updated>
+    <id>tag:dzh365.top,2018-12-28:/2018-12-28.html</id>
+    <content type="html"></content>
+    <link href="https://dzh365.top/2018-12-28.html"></link>
+    <author>
+      <name>DvHwH</name>
+    </author>
+  </entry>
   <entry>
     <title>给自己打打气吧</title>
     <updated>2018-12-16T22:13:00+08:00</updated>
