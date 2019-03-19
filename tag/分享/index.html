@@ -68,7 +68,7 @@
                     
                         <img class="logo" src="/images/avatar.png" />
                         <h1 class="tag">分享</h1>
-                        <h2 class="tag-sub">2 篇文章</h2>
+                        <h2 class="tag-sub">3 篇文章</h2>
                     
                 </header>
                 <ul class="article-list">
@@ -85,6 +85,22 @@
                             
                             <span class="tags">
                             <a class="tag" href="/tag/%e5%88%86%e4%ba%ab/index.html">分享</a><a class="tag" href="/tag/%e5%86%99%e4%bd%9c/index.html">写作</a>
+                            </span>
+                        </section>
+                    </li>
+                    
+                    <li class="article">
+                        <a class="title" href="/2019-3-19.html">软路由折腾记</a>
+                        <div class="cover" style="background-image:url(/images/8/cover.jpg);"></div>
+                        
+                        <section class="info">
+                            <span class="avatar" style="background-image: url(/images/avatar.png);"></span>
+                            <a class="name" href="/about.me.html">DvHwH</a>
+                            
+                            <span class="date" data-time="1552993980"><span class="from"></span></span>
+                            
+                            <span class="tags">
+                            <a class="tag" href="/tag/%e5%88%86%e4%ba%ab/index.html">分享</a><a class="tag" href="/tag/%e6%8a%98%e8%85%be/index.html">折腾</a>
                             </span>
                         </section>
                     </li>
@@ -143,7 +159,7 @@ var e_hrsold=(daysold-e_daysold)*-24;
 var hrsold=Math.floor(e_hrsold);
 var e_minsold=(hrsold-e_hrsold)*-60;
 var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
-document.getElementById("showsectime").innerHTML = "小破站撑了"+daysold+"天"+hrsold+"小时"+minsold+"分了";
+document.getElementById("showsectime").innerHTML = "小破站撑了"+daysold+"天了";
 setTimeout(showsectime, 1000);
 }showsectime();
 </script>
