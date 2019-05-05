@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>DvHwH</title>
   <id>https://dzh365.top</id>
-  <updated>2019-04-24T20:18:44+08:00</updated>
+  <updated>2019-05-05T18:29:39+08:00</updated>
   <subtitle>记录一下吧</subtitle>
   <link href="https://dzh365.top"></link>
   <author>
     <name>DvHwH</name>
   </author>
+  <entry>
+    <title>每周分享No.9</title>
+    <updated>2019-05-05T16:13:00+08:00</updated>
+    <id>tag:dzh365.top,2019-05-05:/2019-5-5.html</id>
+    <content type="html"></content>
+    <link href="https://dzh365.top/2019-5-5.html"></link>
+    <author>
+      <name>DvHwH</name>
+    </author>
+  </entry>
   <entry>
     <title>旧平板散热改造</title>
     <updated>2019-03-22T19:13:00+08:00</updated>
@@ -93,16 +103,6 @@
     <id>tag:dzh365.top,2018-09-29:/2018-9-29.html</id>
     <content type="html"></content>
     <link href="https://dzh365.top/2018-9-29.html"></link>
-    <author>
-      <name>DvHwH</name>
-    </author>
-  </entry>
-  <entry>
-    <title>每周分享No.4</title>
-    <updated>2018-09-22T21:33:00+08:00</updated>
-    <id>tag:dzh365.top,2018-09-22:/2018-9-22.html</id>
-    <content type="html"></content>
-    <link href="https://dzh365.top/2018-9-22.html"></link>
     <author>
       <name>DvHwH</name>
     </author>
